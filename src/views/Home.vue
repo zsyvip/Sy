@@ -18,6 +18,8 @@
       <el-container>
     <!-- 公共组件 -->
     <!-- 路由当前页跳转插槽 -->
+        sdadssadddwwwww
+        <span>nihao</span>
         <router-view></router-view>
     <!--<Common/>-->
       </el-container>
