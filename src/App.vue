@@ -2,6 +2,7 @@
   <!--  唯一的vue入口文件-->
   <div id="app">
     <!-- 显示容器组件 -->
+    <!-- 显示容器组件 -->
     <!-- 插槽 -->
     <router-view></router-view>
   </div>
